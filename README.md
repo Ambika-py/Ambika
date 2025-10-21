@@ -1,1 +1,11 @@
 # Ambika
+marks = int(input("Enter your marks: "))
+if marks > 79 and marks < 101:
+    print("You are  a A grade")
+elif marks > 49 and marks < 80:
+    print("You are a B grade")
+elif marks > 100:
+    print("The maximum mark is 100")
+else:
+     marks < 49
+     print("You are reappear")  
