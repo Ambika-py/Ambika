@@ -8,4 +8,4 @@ elif marks > 100:
     print("The maximum mark is 100")
 else:
      marks < 49
-     print("You are reappear")  
+     print("You are reappears")  
