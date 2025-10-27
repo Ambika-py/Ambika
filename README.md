@@ -1,4 +1,6 @@
 # Ambika
+
+[![An image of @ambikapy's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ambikapy)](https://holopin.io/@ambikapy)
 marks = int(input("Enter your marks: "))
 if marks > 79 and marks < 101:
     print("You are  a A grade")
